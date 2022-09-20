@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+12999287,740,19,"Boven Coppename",SI,,953434,boven.coppename,SR-SI-BovenCoppename,,
+12999631,740,20,"Boven Saramacca",SI,,1983065,boven.saramacca,SR-SI-BovenSaramacca,,
+13000342,740,21,"Boven Suriname",SI,,2582096,boven.suriname,SR-SI-BovenSuriname,,
+12998891,740,18,Coeroeni,SI,,2785517,coeroeni,SR-SI-Coeroeni,,
+12998259,740,17,Kabalebo,SI,,2359770,kabalebo,SR-SI-Kabalebo,,
+13004736,740,7,Pamacca,SI,,,pamacca,SR-SI-Pamacca,,
+13000345,740,6,Tapanahony,SI,,2981014,tapanahony,SR-SI-Tapanahony,,

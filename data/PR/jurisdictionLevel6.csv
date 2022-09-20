@@ -1,0 +1,6 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+13008325,740,27,"Bigi Poika",PR,,,bigi.poika,SR-PR-BigiPoika,,
+13010792,740,31,Carolina,PR,,,carolina,SR-PR-Carolina,,
+13008561,740,28,Noord,PR,,,noord,SR-PR-Noord,,
+13008877,740,30,Oost,PR,,599769,oost,SR-PR-Oost,,
+13008690,740,29,Zuid,PR,,3147913,zuid,SR-PR-Zuid,,

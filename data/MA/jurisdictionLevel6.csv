@@ -1,0 +1,7 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+13011677,740,34,Albina,MA,,580016,albina,SR-MA-Albina,,
+13011696,740,35,Galibi,MA,,,galibi,SR-MA-Galibi,,
+13011513,740,23,Moengo,MA,,24226,moengo,SR-MA-Moengo,,
+13011644,740,33,"Moengo Tapoe",MA,,,moengo.tapoe,SR-MA-MoengoTapoe,,
+13011095,740,32,Patamacca,MA,,,patamacca,SR-MA-Patamacca,,
+13011763,740,36,Wanhatti,MA,,1318702,wanhatti,SR-MA-Wanhatti,,

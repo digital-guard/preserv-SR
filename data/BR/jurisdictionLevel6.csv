@@ -1,0 +1,7 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+13005147,740,25,"Brokopondo Centrum",BR,,,brokopondo.centrum,SR-BR-BrokopondoCentrum,,
+13024887,740,44,Brownsweg,BR,,927447,brownsweg,SR-BR-Brownsweg,,
+13005113,740,22,Klaaskreek,BR,,,klaaskreek,SR-BR-Klaaskreek,,
+13004908,740,8,Kwakoegron,BR,,,kwakoegron,SR-BR-Kwakoegron,,
+13005000,740,9,Marchallkreek,BR,,2108036,marchallkreek,SR-BR-Marchallkreek,,
+13005707,740,26,Sarakreek,BR,,2398165,sarakreek,SR-BR-Sarakreek,,

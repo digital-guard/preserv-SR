@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+13025893,740,50,"De Nieuwe Grond",WA,,1978021,nieuwe.grond,SR-WA-NieuweGrond,,
+13025619,740,48,Domburg,WA,,,domburg,SR-WA-Domburg,,
+13025682,740,49,Houttuin,WA,,5648548,houttuin,SR-WA-Houttuin,,
+13025975,740,51,Koewarasan,WA,,1757514,koewarasan,SR-WA-Koewarasan,,
+13026159,740,57,Kwatta,WA,,1757289,kwatta,SR-WA-Kwatta,,
+13025491,740,47,Lelydorp,WA,,935545,lelydorp,SR-WA-Lelydorp,,
+13026099,740,53,Saramaccapolder,WA,,,saramaccapolder,SR-WA-Saramaccapolder,,

@@ -1,0 +1,7 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+13025375,740,2,Calcutta,SA,,1120959,calcutta,SR-SA-Calcutta,,
+13025203,740,41,Groningen,SA,,508935,groningen,SR-SA-Groningen,,
+13025137,740,46,Jarikaba,SA,,,jarikaba,SR-SA-Jarikaba,,
+13025432,740,3,"Kampong Baroe",SA,,,kampong.baroe,SR-SA-KampongBaroe,,
+13025345,740,1,Tijgerkreek,SA,,1757260,tijgerkreek,SR-SA-Tijgerkreek,,
+13024975,740,45,Wayamboweg,SA,,1757266,wayamboweg,SR-SA-Wayamboweg,,

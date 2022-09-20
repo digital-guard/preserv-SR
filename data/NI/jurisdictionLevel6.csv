@@ -1,0 +1,6 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+12995575,740,14,"Groot Henar",NI,,,groot.henar,SR-NI-GrootHenar,,
+12996354,740,5,"Nieuw Nickerie",NI,,,nieuw.nickerie,SR-NI-NieuwNickerie,,
+12996359,740,16,"Oostelijke Polders",NI,,1757504,oostelijke.polders,SR-NI-OostelijkePolders,,
+12995456,740,13,Wageningen,NI,,,wageningen,SR-NI-Wageningen,,
+12995650,740,15,"Westelijke Polders",NI,,512231,westelijke.polders,SR-NI-WestelijkePolders,,
