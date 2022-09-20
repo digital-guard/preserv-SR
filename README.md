@@ -1,7 +1,7 @@
 # preserv-SR
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Suriname**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Suriname se le asignó: en el contexto ISO 3166‑2 el geocódigo **SR** y el número **740**; en Wikidata el identificador [Q730](http://wikidata.org/entity/Q730); en OpenStreetMap el identificador de [*relación* 287082](http://osm.org/relation/287082).
+A Suriname se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**SR**](https://en.wikipedia.org/wiki/ISO_3166-2:SR) y el número [**740**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q730](http://wikidata.org/entity/Q730); en OpenStreetMap el identificador de [*relación* 287082](http://osm.org/relation/287082).
 
 
 ## Organización territorial
