@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13025893,740,50,"De Nieuwe Grond",WA,,1978021,nieuwe.grond,SR-WA-NieuweGrond,,
-13025619,740,48,Domburg,WA,,,domburg,SR-WA-Domburg,,
-13025682,740,49,Houttuin,WA,,5648548,houttuin,SR-WA-Houttuin,,
-13025975,740,51,Koewarasan,WA,,1757514,koewarasan,SR-WA-Koewarasan,,
-13026159,740,57,Kwatta,WA,,1757289,kwatta,SR-WA-Kwatta,,
-13025491,740,47,Lelydorp,WA,,935545,lelydorp,SR-WA-Lelydorp,,
-13026099,740,53,Saramaccapolder,WA,,,saramaccapolder,SR-WA-Saramaccapolder,,
+13025893,740,50,"De Nieuwe Grond",WA,,1978021,nieuwe.grond,SR-WA-NieuweGrond,,"{""area_sr"": 0.00306, ""area_km2"": 37, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 6.1, ""side_estim_deg"": 0.0553, ""elongation_factor"": 1.39}"
+13025619,740,48,Domburg,WA,,,domburg,SR-WA-Domburg,,"{""area_sr"": 0.00266, ""area_km2"": 33, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 5.7, ""side_estim_deg"": 0.0516, ""elongation_factor"": 2.28}"
+13025682,740,49,Houttuin,WA,,5648548,houttuin,SR-WA-Houttuin,,"{""area_sr"": 0.00444, ""area_km2"": 54, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 7.4, ""side_estim_deg"": 0.0666, ""elongation_factor"": 2.18}"
+13025975,740,51,Koewarasan,WA,,1757514,koewarasan,SR-WA-Koewarasan,,"{""area_sr"": 0.00554, ""area_km2"": 68, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.2, ""side_estim_deg"": 0.0744, ""elongation_factor"": 1.85}"
+13026159,740,57,Kwatta,WA,,1757289,kwatta,SR-WA-Kwatta,,"{""area_sr"": 0.00555, ""area_km2"": 68, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.2, ""side_estim_deg"": 0.0745, ""elongation_factor"": 1.67}"
+13025491,740,47,Lelydorp,WA,,935545,lelydorp,SR-WA-Lelydorp,,"{""area_sr"": 0.01275, ""area_km2"": 156, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 12.5, ""side_estim_deg"": 0.1129, ""elongation_factor"": 1.7}"
+13026099,740,53,Saramaccapolder,WA,,,saramaccapolder,SR-WA-Saramaccapolder,,"{""area_sr"": 0.00229, ""area_km2"": 28, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 5.3, ""side_estim_deg"": 0.0479, ""elongation_factor"": 2.05}"

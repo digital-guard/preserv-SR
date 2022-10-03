@@ -1,6 +1,6 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13008325,740,27,"Bigi Poika",PR,,,bigi.poika,SR-PR-BigiPoika,,
-13010792,740,31,Carolina,PR,,,carolina,SR-PR-Carolina,,
-13008561,740,28,Noord,PR,,,noord,SR-PR-Noord,,
-13008877,740,30,Oost,PR,,599769,oost,SR-PR-Oost,,
-13008690,740,29,Zuid,PR,,3147913,zuid,SR-PR-Zuid,,
+13008325,740,27,"Bigi Poika",PR,,,bigi.poika,SR-PR-BigiPoika,,"{""area_sr"": 0.20161, ""area_km2"": 2471, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 49.7, ""side_estim_deg"": 0.449, ""elongation_factor"": 2.29}"
+13010792,740,31,Carolina,PR,,,carolina,SR-PR-Carolina,,"{""area_sr"": 0.11106, ""area_km2"": 1361, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 36.9, ""side_estim_deg"": 0.3333, ""elongation_factor"": 2.16}"
+13008561,740,28,Noord,PR,,,noord,SR-PR-Noord,,"{""area_sr"": 0.02337, ""area_km2"": 286, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 16.9, ""side_estim_deg"": 0.1529, ""elongation_factor"": 1.51}"
+13008877,740,30,Oost,PR,,599769,oost,SR-PR-Oost,,"{""area_sr"": 0.03544, ""area_km2"": 434, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 20.8, ""side_estim_deg"": 0.1882, ""elongation_factor"": 2.43}"
+13008690,740,29,Zuid,PR,,3147913,zuid,SR-PR-Zuid,,"{""area_sr"": 0.06492, ""area_km2"": 796, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 28.2, ""side_estim_deg"": 0.2548, ""elongation_factor"": 1.86}"

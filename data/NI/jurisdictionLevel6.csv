@@ -1,6 +1,6 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-12995575,740,14,"Groot Henar",NI,,,groot.henar,SR-NI-GrootHenar,,
-12996354,740,5,"Nieuw Nickerie",NI,,,nieuw.nickerie,SR-NI-NieuwNickerie,,
-12996359,740,16,"Oostelijke Polders",NI,,1757504,oostelijke.polders,SR-NI-OostelijkePolders,,
-12995456,740,13,Wageningen,NI,,,wageningen,SR-NI-Wageningen,,
-12995650,740,15,"Westelijke Polders",NI,,512231,westelijke.polders,SR-NI-WestelijkePolders,,
+12995575,740,14,"Groot Henar",NI,,,groot.henar,SR-NI-GrootHenar,,"{""area_sr"": 0.19035, ""area_km2"": 2332, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 48.3, ""side_estim_deg"": 0.4363, ""elongation_factor"": 1.75}"
+12996354,740,5,"Nieuw Nickerie",NI,,,nieuw.nickerie,SR-NI-NieuwNickerie,,"{""area_sr"": 0.00281, ""area_km2"": 34, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 5.9, ""side_estim_deg"": 0.053, ""elongation_factor"": 0.94}"
+12996359,740,16,"Oostelijke Polders",NI,,1757504,oostelijke.polders,SR-NI-OostelijkePolders,,"{""area_sr"": 0.04233, ""area_km2"": 518, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 22.8, ""side_estim_deg"": 0.2057, ""elongation_factor"": 2.46}"
+12995456,740,13,Wageningen,NI,,,wageningen,SR-NI-Wageningen,,"{""area_sr"": 0.11908, ""area_km2"": 1459, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3451, ""elongation_factor"": 2.23}"
+12995650,740,15,"Westelijke Polders",NI,,512231,westelijke.polders,SR-NI-WestelijkePolders,,"{""area_sr"": 0.09047, ""area_km2"": 1108, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 33.3, ""side_estim_deg"": 0.3008, ""elongation_factor"": 2.55}"

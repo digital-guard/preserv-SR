@@ -1,7 +1,7 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13011677,740,34,Albina,MA,,580016,albina,SR-MA-Albina,,
-13011696,740,35,Galibi,MA,,,galibi,SR-MA-Galibi,,
-13011513,740,23,Moengo,MA,,24226,moengo,SR-MA-Moengo,,
-13011644,740,33,"Moengo Tapoe",MA,,,moengo.tapoe,SR-MA-MoengoTapoe,,
-13011095,740,32,Patamacca,MA,,,patamacca,SR-MA-Patamacca,,
-13011763,740,36,Wanhatti,MA,,1318702,wanhatti,SR-MA-Wanhatti,,
+13011677,740,34,Albina,MA,,580016,albina,SR-MA-Albina,,"{""area_sr"": 0.0366, ""area_km2"": 449, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 21.2, ""side_estim_deg"": 0.1913, ""elongation_factor"": 1.61}"
+13011696,740,35,Galibi,MA,,,galibi,SR-MA-Galibi,,"{""area_sr"": 0.09054, ""area_km2"": 1109, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 33.3, ""side_estim_deg"": 0.3009, ""elongation_factor"": 2.63}"
+13011513,740,23,Moengo,MA,,24226,moengo,SR-MA-Moengo,,"{""area_sr"": 0.09178, ""area_km2"": 1124, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 33.5, ""side_estim_deg"": 0.303, ""elongation_factor"": 1.89}"
+13011644,740,33,"Moengo Tapoe",MA,,,moengo.tapoe,SR-MA-MoengoTapoe,,"{""area_sr"": 0.03032, ""area_km2"": 372, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 19.3, ""side_estim_deg"": 0.1741, ""elongation_factor"": 1.93}"
+13011095,740,32,Patamacca,MA,,,patamacca,SR-MA-Patamacca,,"{""area_sr"": 0.09944, ""area_km2"": 1219, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 34.9, ""side_estim_deg"": 0.3153, ""elongation_factor"": 1.53}"
+13011763,740,36,Wanhatti,MA,,1318702,wanhatti,SR-MA-Wanhatti,,"{""area_sr"": 0.03577, ""area_km2"": 438, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 20.9, ""side_estim_deg"": 0.1891, ""elongation_factor"": 1.14}"

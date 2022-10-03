@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-12999287,740,19,"Boven Coppename",SI,,953434,boven.coppename,SR-SI-BovenCoppename,,
-12999631,740,20,"Boven Saramacca",SI,,1983065,boven.saramacca,SR-SI-BovenSaramacca,,
-13000342,740,21,"Boven Suriname",SI,,2582096,boven.suriname,SR-SI-BovenSuriname,,
-12998891,740,18,Coeroeni,SI,,2785517,coeroeni,SR-SI-Coeroeni,,
-12998259,740,17,Kabalebo,SI,,2359770,kabalebo,SR-SI-Kabalebo,,
-13004736,740,7,Pamacca,SI,,,pamacca,SR-SI-Pamacca,,
-13000345,740,6,Tapanahony,SI,,2981014,tapanahony,SR-SI-Tapanahony,,
+12999287,740,19,"Boven Coppename",SI,,953434,boven.coppename,SR-SI-BovenCoppename,,"{""area_sr"": 1.27076, ""area_km2"": 15595, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 124.9, ""side_estim_deg"": 1.1273, ""elongation_factor"": 2.39}"
+12999631,740,20,"Boven Saramacca",SI,,1983065,boven.saramacca,SR-SI-BovenSaramacca,,"{""area_sr"": 0.45008, ""area_km2"": 5524, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 74.3, ""side_estim_deg"": 0.6709, ""elongation_factor"": 2.78}"
+13000342,740,21,"Boven Suriname",SI,,2582096,boven.suriname,SR-SI-BovenSuriname,,"{""area_sr"": 0.60637, ""area_km2"": 7447, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 86.3, ""side_estim_deg"": 0.7787, ""elongation_factor"": 2.21}"
+12998891,740,18,Coeroeni,SI,,2785517,coeroeni,SR-SI-Coeroeni,,"{""area_sr"": 1.52742, ""area_km2"": 18779, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 137, ""side_estim_deg"": 1.2359, ""elongation_factor"": 2.63}"
+12998259,740,17,Kabalebo,SI,,2359770,kabalebo,SR-SI-Kabalebo,,"{""area_sr"": 2.05133, ""area_km2"": 25177, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 158.7, ""side_estim_deg"": 1.4322, ""elongation_factor"": 2.04}"
+13004736,740,7,Pamacca,SI,,,pamacca,SR-SI-Pamacca,,"{""area_sr"": 0.17542, ""area_km2"": 2151, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 46.4, ""side_estim_deg"": 0.4188, ""elongation_factor"": 1.7}"
+13000345,740,6,Tapanahony,SI,,2981014,tapanahony,SR-SI-Tapanahony,,"{""area_sr"": 3.05845, ""area_km2"": 37583, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 193.9, ""side_estim_deg"": 1.7488, ""elongation_factor"": 2.01}"

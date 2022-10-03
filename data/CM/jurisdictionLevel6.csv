@@ -1,7 +1,7 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13021612,740,43,Alkmaar,CM,,,alkmaar,SR-CM-Alkmaar,,
-13017751,740,40,Bakkie,CM,,,bakkie,SR-CM-Bakkie,,
-13017670,740,39,Margaretha,CM,,1757284,margaretha,SR-CM-Margaretha,,
-13011838,740,37,Meerzorg,CM,,,meerzorg,SR-CM-Meerzorg,,
-13011902,740,38,"Nieuw Amsterdam",CM,,,nieuw.amsterdam,SR-CM-NieuwAmsterdam,,
-13021485,740,42,Tamanredjo,CM,,,tamanredjo,SR-CM-Tamanredjo,,
+13021612,740,43,Alkmaar,CM,,,alkmaar,SR-CM-Alkmaar,,"{""area_sr"": 0.00743, ""area_km2"": 91, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 9.5, ""side_estim_deg"": 0.0862, ""elongation_factor"": 1.92}"
+13017751,740,40,Bakkie,CM,,,bakkie,SR-CM-Bakkie,,"{""area_sr"": 0.0352, ""area_km2"": 431, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 20.8, ""side_estim_deg"": 0.1876, ""elongation_factor"": 1.75}"
+13017670,740,39,Margaretha,CM,,1757284,margaretha,SR-CM-Margaretha,,"{""area_sr"": 0.01571, ""area_km2"": 192, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 13.9, ""side_estim_deg"": 0.1253, ""elongation_factor"": 1.72}"
+13011838,740,37,Meerzorg,CM,,,meerzorg,SR-CM-Meerzorg,,"{""area_sr"": 0.08525, ""area_km2"": 1044, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 32.3, ""side_estim_deg"": 0.292, ""elongation_factor"": 2.1}"
+13011902,740,38,"Nieuw Amsterdam",CM,,,nieuw.amsterdam,SR-CM-NieuwAmsterdam,,"{""area_sr"": 0.00527, ""area_km2"": 65, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8, ""side_estim_deg"": 0.0726, ""elongation_factor"": 1.8}"
+13021485,740,42,Tamanredjo,CM,,,tamanredjo,SR-CM-Tamanredjo,,"{""area_sr"": 0.04372, ""area_km2"": 535, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 23.1, ""side_estim_deg"": 0.2091, ""elongation_factor"": 1.92}"

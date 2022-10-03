@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-12995273,740,11,"Johanna Maria",CR,,,johanna.maria,SR-CR-JohannaMaria,,
-12994995,740,10,Totness,CR,,1357920,totness,SR-CR-Totness,,
-12995408,740,12,Welgelegen,CR,,1757255,welgelegen,SR-CR-Welgelegen,,
+12995273,740,11,"Johanna Maria",CR,,,johanna.maria,SR-CR-JohannaMaria,,"{""area_sr"": 0.11924, ""area_km2"": 1461, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3453, ""elongation_factor"": 2.08}"
+12994995,740,10,Totness,CR,,1357920,totness,SR-CR-Totness,,"{""area_sr"": 0.02042, ""area_km2"": 250, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 15.8, ""side_estim_deg"": 0.1429, ""elongation_factor"": 3.46}"
+12995408,740,12,Welgelegen,CR,,1757255,welgelegen,SR-CR-Welgelegen,,"{""area_sr"": 0.17865, ""area_km2"": 2189, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 46.8, ""side_estim_deg"": 0.4227, ""elongation_factor"": 1.58}"

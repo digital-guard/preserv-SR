@@ -1,7 +1,7 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13025375,740,2,Calcutta,SA,,1120959,calcutta,SR-SA-Calcutta,,
-13025203,740,41,Groningen,SA,,508935,groningen,SR-SA-Groningen,,
-13025137,740,46,Jarikaba,SA,,,jarikaba,SR-SA-Jarikaba,,
-13025432,740,3,"Kampong Baroe",SA,,,kampong.baroe,SR-SA-KampongBaroe,,
-13025345,740,1,Tijgerkreek,SA,,1757260,tijgerkreek,SR-SA-Tijgerkreek,,
-13024975,740,45,Wayamboweg,SA,,1757266,wayamboweg,SR-SA-Wayamboweg,,
+13025375,740,2,Calcutta,SA,,1120959,calcutta,SR-SA-Calcutta,,"{""area_sr"": 0.13649, ""area_km2"": 1672, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 40.9, ""side_estim_deg"": 0.3694, ""elongation_factor"": 1.86}"
+13025203,740,41,Groningen,SA,,508935,groningen,SR-SA-Groningen,,"{""area_sr"": 0.00627, ""area_km2"": 77, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.8, ""side_estim_deg"": 0.0792, ""elongation_factor"": 2.27}"
+13025137,740,46,Jarikaba,SA,,,jarikaba,SR-SA-Jarikaba,,"{""area_sr"": 0.00784, ""area_km2"": 96, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 9.8, ""side_estim_deg"": 0.0885, ""elongation_factor"": 1.82}"
+13025432,740,3,"Kampong Baroe",SA,,,kampong.baroe,SR-SA-KampongBaroe,,"{""area_sr"": 0.05305, ""area_km2"": 650, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 25.5, ""side_estim_deg"": 0.2303, ""elongation_factor"": 2.36}"
+13025345,740,1,Tijgerkreek,SA,,1757260,tijgerkreek,SR-SA-Tijgerkreek,,"{""area_sr"": 0.0215, ""area_km2"": 263, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 16.2, ""side_estim_deg"": 0.1466, ""elongation_factor"": 1.15}"
+13024975,740,45,Wayamboweg,SA,,1757266,wayamboweg,SR-SA-Wayamboweg,,"{""area_sr"": 0.08822, ""area_km2"": 1080, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 32.9, ""side_estim_deg"": 0.297, ""elongation_factor"": 1.93}"

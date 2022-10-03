@@ -1,13 +1,13 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-13028393,740,55,Beekhuizen,PM,,,beekhuizen,SR-PM-Beekhuizen,,
-13026222,740,58,Blauwgrond,PM,,,blauwgrond,SR-PM-Blauwgrond,,
-13026345,740,61,Centrum,PM,,2101377,centrum,SR-PM-Centrum,,
-13028363,740,24,Flora,PM,,1757272,flora,SR-PM-Flora,,
-13028440,740,59,Latour,PM,,,latour,SR-PM-Latour,,
-13028404,740,56,Livorno,PM,,2549349,livorno,SR-PM-Livorno,,
-13026300,740,54,Munder,PM,,2577730,munder,SR-PM-Munder,,
-13028468,740,63,Pontbuiten,PM,,,pontbuiten,SR-PM-Pontbuiten,,
-13026244,740,52,Rainville,PM,,,rainville,SR-PM-Rainville,,
-13026432,740,4,Tammenga,PM,,956753,tammenga,SR-PM-Tammenga,,
-13026308,740,60,"Weg naar Zee",PM,,587993,weg.naar.zee,SR-PM-WegNaarZee,,
-13026384,740,62,Welgelegen,PM,,1757315,welgelegen,SR-PM-Welgelegen,,
+13028393,740,55,Beekhuizen,PM,,,beekhuizen,SR-PM-Beekhuizen,,"{""area_sr"": 0.00048, ""area_km2"": 6, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.4, ""side_estim_deg"": 0.0218, ""elongation_factor"": 1.38}"
+13026222,740,58,Blauwgrond,PM,,,blauwgrond,SR-PM-Blauwgrond,,"{""area_sr"": 0.00304, ""area_km2"": 37, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 6.1, ""side_estim_deg"": 0.0551}"
+13026345,740,61,Centrum,PM,,2101377,centrum,SR-PM-Centrum,,"{""area_sr"": 0.0007, ""area_km2"": 9, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.9, ""side_estim_deg"": 0.0264, ""elongation_factor"": 1.51}"
+13028363,740,24,Flora,PM,,1757272,flora,SR-PM-Flora,,"{""area_sr"": 0.00037, ""area_km2"": 4, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.1, ""side_estim_deg"": 0.0191, ""elongation_factor"": 1.48}"
+13028440,740,59,Latour,PM,,,latour,SR-PM-Latour,,"{""area_sr"": 0.00058, ""area_km2"": 7, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.7, ""side_estim_deg"": 0.024, ""elongation_factor"": 1.68}"
+13028404,740,56,Livorno,PM,,2549349,livorno,SR-PM-Livorno,,"{""area_sr"": 0.00065, ""area_km2"": 8, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0256, ""elongation_factor"": 1.13}"
+13026300,740,54,Munder,PM,,2577730,munder,SR-PM-Munder,,"{""area_sr"": 0.00107, ""area_km2"": 13, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 3.6, ""side_estim_deg"": 0.0326, ""elongation_factor"": 1.87}"
+13028468,740,63,Pontbuiten,PM,,,pontbuiten,SR-PM-Pontbuiten,,"{""area_sr"": 0.00053, ""area_km2"": 7, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.6, ""side_estim_deg"": 0.0231, ""elongation_factor"": 1.94}"
+13026244,740,52,Rainville,PM,,,rainville,SR-PM-Rainville,,"{""area_sr"": 0.00206, ""area_km2"": 25, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 5, ""side_estim_deg"": 0.0454, ""elongation_factor"": 1.98}"
+13026432,740,4,Tammenga,PM,,956753,tammenga,SR-PM-Tammenga,,"{""area_sr"": 0.00051, ""area_km2"": 6, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.5, ""side_estim_deg"": 0.0226, ""elongation_factor"": 1.46}"
+13026308,740,60,"Weg naar Zee",PM,,587993,weg.naar.zee,SR-PM-WegNaarZee,,"{""area_sr"": 0.00317, ""area_km2"": 39, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 6.2, ""side_estim_deg"": 0.0563, ""elongation_factor"": 1.25}"
+13026384,740,62,Welgelegen,PM,,1757315,welgelegen,SR-PM-Welgelegen,,"{""area_sr"": 0.00059, ""area_km2"": 7, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 2.7, ""side_estim_deg"": 0.0243, ""elongation_factor"": 1.66}"
